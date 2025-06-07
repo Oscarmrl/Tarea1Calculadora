@@ -45,8 +45,8 @@
             android:id="@+id/btnSumar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sumar"
-            android:onClick="Sumar" />
+            android:onClick="Sumar"
+            android:text="sumar3" />
 
         <Button
             android:id="@+id/btnRestar"
